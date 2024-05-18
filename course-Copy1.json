@@ -1,0 +1,47 @@
+[  
+  {  
+    "name": "Math" , 
+    "day":"Mon",
+    "teacher":"A" , 
+    "room":"3107",
+    "session":"3",
+    "week":"1-16",
+    "code":"1111"
+  },  
+  {  
+    "name": "Music",  
+    "day": "Tues",
+    "teacher": "B" ,
+    "room":"2122",
+    "session":"5",
+    "week": "4-12(odd)",
+    "code":"1112"
+  },  
+  {  
+    "name": "Math",  
+    "day": "Wed",
+    "teacher": "A" ,
+    "room":"2122",
+    "session":"2",
+    "week": "4-12",
+    "code":"1111"
+  }, 
+  {  
+    "name": "English",  
+    "day": "Thur",
+    "teacher": "C" ,
+    "room":"4202",
+    "session":"1",
+    "week": "1-16(even)",
+    "code":"1113"
+  }, 
+  {  
+    "name": "Physics",  
+    "day": "Fri",
+    "teacher": "D" ,
+    "room":"4010",
+    "session":"4",
+    "week": "4-16",
+    "code":"1114"
+  }
+]

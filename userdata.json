@@ -1,0 +1,80 @@
+{
+    "students": [
+        {
+            "username": "2023FIT0101",
+            "password": "1111111"
+        },
+        {
+            "username": "2023FIT0102",
+            "password": "222222"
+        },
+        {
+            "username": "2023FIT0103",
+            "password": "333333"
+        },
+        {
+            "username": "2023FIT0104",
+            "password": "444444"
+        },
+        {
+            "username": "2023FIT0105",
+            "password": "555555"
+        },
+        {
+            "username": "2023MMF0101",
+            "password": "1111111"
+        },
+        {
+            "username": "2023MMF0102",
+            "password": "222222"
+        },
+        {
+            "username": "2023MMF0103",
+            "password": "333333"
+        },
+        {
+            "username": "2023MMF0104",
+            "password": "444444"
+        },
+        {
+            "username": "2023MMF0105",
+            "password": "555555"
+        }
+    ],
+    "teachers": [
+        {
+            "username": "12345678",
+            "password": "12345678"
+        },
+        {
+            "username": "12245678",
+            "password": "12245678"
+        },
+        {
+            "username": "12335678",
+            "password": "12335678"
+        },
+        {
+            "username": "12244678",
+            "password": "12244678"
+        },
+        {
+            "username": "11224578",
+            "password": "111"
+        },
+        {
+            "username": "45578452",
+            "password": "11133"
+        },
+        {
+            "username": "15478964",
+            "password": "11332"
+        }
+    ],
+    "administrators": [
+        {
+            "username": "admin",
+            "password": "88888888"
+        }
+    ]
+}

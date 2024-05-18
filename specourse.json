@@ -1,0 +1,92 @@
+[  
+  {  
+    "name": "1" , 
+    "day":"Tues",
+    "teacher":"A" , 
+    "room":"3107",
+    "session":"3",
+    "week":"1-16",
+    "code":"2111"
+  },  
+  {  
+    "name": "2",  
+    "day": "Tues",
+    "teacher": "B" ,
+    "room":"2122",
+    "session":"5",
+    "week": "4-12(odd)",
+    "code":"2112"
+  },  
+  {  
+    "name": "3",  
+    "day": "Tues",
+    "teacher": "A" ,
+    "room":"2122",
+    "session":"2",
+    "week": "4-12",
+    "code":"2113"
+  }, 
+  {  
+    "name": "4",  
+    "day": "Tues",
+    "teacher": "C" ,
+    "room":"4202",
+    "session":"1",
+    "week": "1-16(even)",
+    "code":"2113"
+  }, 
+  {  
+    "name": "5",  
+    "day": "Tues",
+    "teacher": "D" ,
+    "room":"4010",
+    "session":"4",
+    "week": "4-16",
+    "code":"2114"
+  },
+  {  
+    "name": "6" , 
+    "day":"Tues",
+    "teacher":"A" , 
+    "room":"3107",
+    "session":"3",
+    "week":"1-16",
+    "code":"5152"
+  },  
+  {  
+    "name": "7",  
+    "day": "Tues",
+    "teacher": "B" ,
+    "room":"2122",
+    "session":"5",
+    "week": "4-12(odd)",
+    "code":"4536"
+  },  
+  {  
+    "name": "8",  
+    "day": "Tues",
+    "teacher": "A" ,
+    "room":"2122",
+    "session":"2",
+    "week": "4-12",
+    "code":"4515"
+  }, 
+  {  
+    "name": "9",  
+    "day": "Tues",
+    "teacher": "C" ,
+    "room":"4202",
+    "session":"1",
+    "week": "1-16(even)",
+    "code":"4527"
+  }, 
+  {  
+    "name": "10",  
+    "day": "Tues",
+    "teacher": "D" ,
+    "room":"4010",
+    "session":"4",
+    "week": "4-16",
+    "code":"5344"
+  }
+]
