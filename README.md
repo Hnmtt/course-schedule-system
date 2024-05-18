@@ -1,7 +1,7 @@
 # course-schedule-system
 A system that makes it easy for teachers and students to check course schedules.
 ## UML
-<img width="806" alt="a190a17f6266bfb708bc2c8f3452b10" src="https://github.com/Hnmtt/course-schedule-system/assets/114071791/c49e2f40-a911-4403-bcb4-22070613eb12">
+<img width="1181" alt="e14c8f38076ddc314da6256bbf2ef98" src="https://github.com/Hnmtt/course-schedule-system/assets/114071791/cf5bad6c-3849-46ff-a3a5-3d06bfe9b6bb">
 
 ## Login page:
 ![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/a55af8cd-c4c2-4b91-8b1e-91ab3cc5ca7c)
