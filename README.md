@@ -1,7 +1,8 @@
 # course-schedule-system
 A system that makes it easy for teachers and students to check course schedules.
 ## UML
-<img width="1181" alt="e14c8f38076ddc314da6256bbf2ef98" src="https://github.com/Hnmtt/course-schedule-system/assets/114071791/cf5bad6c-3849-46ff-a3a5-3d06bfe9b6bb">
+<img width="967" alt="6ade033aa7cc20c5d3431a3bf20792b" src="https://github.com/Hnmtt/course-schedule-system/assets/114071791/d83c3454-0c62-4214-a7d5-f5dd49ea525f">
+<img width="924" alt="22ad68b0a1c364e57fbc9a2f4cf3d3a" src="https://github.com/Hnmtt/course-schedule-system/assets/114071791/13cf250e-fda9-4b91-aa96-29589cad946c">
 
 ## Login page:
 ![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/a55af8cd-c4c2-4b91-8b1e-91ab3cc5ca7c)
@@ -19,3 +20,9 @@ two pages: current week & semester
 two fuctions: add course & delete course  
 ![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/26f78909-6dde-4b52-9139-6d1cedcfbc66)
 ![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/ccb75fb3-be27-4b73-ac61-b3326f87771a)
+
+## Teacher's page:  
+![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/84d4bec5-ac44-4587-af42-90cfe8d37cc2)  
+Teachers can add their special course：
+![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/3e5ae868-b00f-40df-9f9f-ee82347238a3)
+
