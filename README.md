@@ -23,6 +23,6 @@ two fuctions: add course & delete course
 
 ## Teacher's page:  
 ![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/84d4bec5-ac44-4587-af42-90cfe8d37cc2)  
-Teachers can add their special course：
+Teachers can add their special course:  
 ![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/3e5ae868-b00f-40df-9f9f-ee82347238a3)
 
