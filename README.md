@@ -2,7 +2,7 @@
 A system that makes it easy for teachers and students to check course schedules.
 ## UML
 <img width="967" alt="6ade033aa7cc20c5d3431a3bf20792b" src="https://github.com/Hnmtt/course-schedule-system/assets/114071791/d83c3454-0c62-4214-a7d5-f5dd49ea525f">
-<img width="924" alt="22ad68b0a1c364e57fbc9a2f4cf3d3a" src="https://github.com/Hnmtt/course-schedule-system/assets/114071791/13cf250e-fda9-4b91-aa96-29589cad946c">
+<img width="959" alt="8757e409d604b0980212ab13ce62f76" src="https://github.com/Hnmtt/course-schedule-system/assets/114071791/2ece5309-84c9-40ee-8d8f-74c37ceb8b5f">
 
 ## Login page:
 ![image](https://github.com/Hnmtt/course-schedule-system/assets/114071791/a55af8cd-c4c2-4b91-8b1e-91ab3cc5ca7c)
