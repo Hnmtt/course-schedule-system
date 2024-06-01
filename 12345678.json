@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Medieval history",
+        "day": "Wed",
+        "teacher": "A",
+        "room": "4202",
+        "session": "5",
+        "week": "1-12(odd)",
+        "code": "1125"
+    },
+    {
+        "name": "Modern history",
+        "day": "Wed",
+        "teacher": "A",
+        "room": "4210",
+        "session": "2",
+        "week": "4-12",
+        "code": "2542"
+    },
+    {
+        "name": "Medieval history",
+        "day": "Thur",
+        "teacher": "A",
+        "room": "4202",
+        "session": "1",
+        "week": "1-12(even)",
+        "code": "1126"
+    },
+    {
+        "name": "Ancient History",
+        "day": "Fri",
+        "teacher": "A",
+        "room": "4210",
+        "session": "4",
+        "week": "4-16",
+        "code": "4125"
+    },
+    {
+        "name": "AAA",
+        "day": "Tues",
+        "teacher": "A",
+        "room": "1111",
+        "session": "1",
+        "week": "2-14",
+        "code": "5415"
+    }
+]
